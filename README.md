@@ -17,8 +17,3 @@ I'm a Software Engineer, Tech Instructor 🌐| Transforming Ideas into Functiona
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,md,git,github,vscode,stackoverflow&perline=16)](#)
 
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zadvajr&show_icons=true&include_all_commits=true&hide_border=true" alt="zadvajr's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadvajr&langs_count=8&layout=compact&hide_border=true" alt="zadvajr's GitHub stats" /> |
-| ------------- | ------------- |
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
